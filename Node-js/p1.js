@@ -1,3 +1,5 @@
+//test using the thunderclient extension
+
 console.log("hello");
 const mysql = require('mysql2')
 const express = require('express')
