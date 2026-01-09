@@ -16,7 +16,7 @@ def add_student(request):
     return Response({
         "msg":"not added "
     })     
-    
+    # fetch all data 
 @api_view(["GET"])
 
 def all_students(request):
